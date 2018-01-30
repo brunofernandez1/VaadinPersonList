@@ -1,0 +1,7 @@
+mypersonlist\MyUI.class
+mypersonlist\MyPersonListModel.class
+mypersonlist\MyPersonListView$MyPersonListViewListener.class
+mypersonlist\MyPersonListView.class
+mypersonlist\MyPersonListViewImpl.class
+mypersonlist\MyPersonListPresenter.class
+mypersonlist\MyUI$MyUIServlet.class
